@@ -1,0 +1,11 @@
+C:\Users\79994\source\repos\ANV\bin\Debug\ANV.exe.config
+C:\Users\79994\source\repos\ANV\bin\Debug\ANV.exe
+C:\Users\79994\source\repos\ANV\bin\Debug\ANV.pdb
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.csproj.AssemblyReference.cache
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.Form1.resources
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.Properties.Resources.resources
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.csproj.GenerateResource.cache
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.csproj.CoreCompileInputs.cache
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.exe
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.pdb
+C:\Users\79994\source\repos\ANV\obj\Debug\ANV.KeyGenus.resources
